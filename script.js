@@ -1,4 +1,4 @@
-alert("Js is working");
+
 
   // Cursor
   const cur = document.getElementById('cur');
